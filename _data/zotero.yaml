@@ -1,215 +1,204 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
-  editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
-  issued:
-    - year: 2018
-  language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
-  publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
-  volume: '9'
-
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 9-27
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
+- id: aeschbachWhatBritishMuslimsReallyThink2017
   abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
+    In the discursive construction of intra-national sameness, religious
+    identity is often a key criterion for inclusion or exclusion from the
+    imagined national community. In today’s Europe, the boundaries of individual
+    nations are increasingly secured by applying a logic characteristic of
+    Islamophobia and cultural racism. Therefore, the negotiation of Muslim
+    identity and its intersection with the respective national identity category
+    is of particular interest. In this study, the Twitter hashtag
+    #WhatBritishMuslimsReallyThink was examined in order to analyze how members
+    of the British Muslim digital community both construct and reinforce their
+    collective identity as well as employ discursive strategies to negotiate
+    British national identity and their national belonging in the face of
+    exclusionary political rhetoric. Drawing on a corpus of 480 tweets
+    containing the hashtag #WhatBritishMuslimsReallyThink, a mixed-method
+    content analysis approach was employed to analyze the topics and strategies
+    present in the hashtag discourse. Thereby, the issues addressed and the
+    strategies of belonging employed in the Twitter conversation are embedded in
+    a larger public discourse on British national identity and intra-national
+    boundary making. This research investigates Twitter as a site of national
+    and religious identity construction and sheds light on the contested nature
+    of such identity categories.
   accessed:
     - year: 2023
       month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
+      day: 10
+  author:
+    - family: Aeschbach
+      given: Mirjam
+  citation-key: aeschbachWhatBritishMuslimsReallyThink2017
+  container-title: Zeitschrift für junge Religionswissenschaft
+  DOI: 10.4000/zjr.896
+  ISSN: 1862-5886
+  issue: '12'
   issued:
-    - year: 2008
+    - year: 2017
+      month: 1
+      day: 10
   language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
+  license: https://creativecommons.org/licenses/by/4.0/
+  number: '12'
+  publisher: Zeitschrift für junge Religionswissenschaft
+  source: journals.openedition.org
+  title: '#WhatBritishMuslimsReallyThink'
+  type: article-journal
+  URL: https://journals.openedition.org/zjr/896
 
-- id: gnuseNoOtherGods1997a
-  abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: bernerSynkretismus2001
   author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
-  issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
-
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
+    - family: Berner
+      given: Ulrich
   call-number: '2'
-  citation-key: langMonotheismus1998a
+  citation-key: bernerSynkretismus2001
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  page: 143-152
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Synkretismus
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/05_Berner+-+2001+-+Synkretismus.pdf
+  volume: '5'
+
+- id: brombergerFussballAlsWeltsicht2003
+  author:
+    - family: Bromberger
+      given: Christian
+  citation-key: brombergerFussballAlsWeltsicht2003
+  container-title: 'Ritualtheorien: Ein einführendes Handbuch'
+  edition: '5'
+  editor:
+    - family: Belliger
+      given: Andréa
+    - family: Krieger
+      given: David J.
+  event-place: Wiesbaden
+  issued:
+    - year: 2003
+  language: de
+  page: 281-97
+  publisher: Opladen
+  publisher-place: Wiesbaden
+  source: Google Scholar
+  title: Fußball als Weltsicht und als Ritual
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/02_Bromberger_Fussball.pdf
+
+- id: campbellContextualizingCurrentDigital2020
+  abstract: >-
+    This article provides an overview of contemporary research within the
+    interdisciplinary arc of scholarship known as digital religion studies, in
+    which scholars explore the intersection between emerging digital
+    technologies, lived and material religious practices in contemporary
+    culture, and the impact the structures of the network society have on
+    understandings of spirituality and religiosity. Digital religion studies
+    specifically investigates how online and offline religious spaces and
+    practices have become bridged, blended, and blurred as religious groups and
+    practitioners seek to integrate their religious lives with technology use
+    within different aspects of digital culture.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Campbell
+      given: Heidi A.
+    - family: Evolvi
+      given: Giulia
+  citation-key: campbellContextualizingCurrentDigital2020
+  container-title: Human Behavior and Emerging Technologies
+  container-title-short: Human Behav and Emerg Tech
+  DOI: 10.1002/hbe2.149
+  ISSN: 2578-1863, 2578-1863
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 1
+  language: en
+  page: 5-17
+  source: DOI.org (Crossref)
+  title: Contextualizing current digital religion research on emerging technologies
+  type: article-journal
+  URL: >-
+    https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1002/hbe2.149
+  volume: '2'
+
+- id: cancikBandApokalyptikGeschichte1990
+  call-number: '2'
+  citation-key: cancikBandApokalyptikGeschichte1990
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1990
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 2. Apokalyptik - Geschichte
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wH4eAAAAMAAJ
+  volume: '2'
+
+- id: cancikBandGesetzKult1993
+  call-number: '2'
+  citation-key: cancikBandGesetzKult1993
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1993
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 3. Gesetz - Kult
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ
+  volume: '3'
+
+- id: cancikBandKultbildRolle1998
+  call-number: '2'
+  citation-key: cancikBandKultbildRolle1998
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
   editor:
@@ -225,251 +214,1211 @@ references:
     - year: 1998
   language: de
   number-of-volumes: '5'
-  page: 148-165
   publisher: W. Kohlhammer
   publisher-place: Stuttgart
   source: BnF ISBN
-  title: Monotheismus
+  title: Band 4. Kultbild - Rolle
   type: chapter
   URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ
   volume: '4'
 
-- id: markschiesPriceMonotheismNew2010a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
+- id: cancikBandSaekularisierungZwischenwesenRegister2001
+  call-number: '2'
+  citation-key: cancikBandSaekularisierungZwischenwesenRegister2001
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
   editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
   issued:
-    - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
-  title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 5. Säkularisierung-Zwischenwesen; Register
+  type: chapter
+  URL: https://books.google.de/books?id=5_3WAAAAMAAJ
+  volume: '5'
+
+- id: cancikBandSystematischerTeil1988
+  call-number: '2'
+  citation-key: cancikBandSystematischerTeil1988
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1988
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: 'Band 1. Systematischer Teil; Alphabetischer Teil: Aberglaube-Antisemitismus'
   type: chapter
   URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/v34eAAAAMAAJ
+  volume: '1'
 
-- id: mcgrathOnlyTrueGod2009a
+- id: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
+  call-number: '2'
+  citation-key: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1988
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Handbuch religionswissenschaftlicher Grundbegriffe
+  type: book
+
+- id: csordasIntroduction1994
   abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
+    How does religious healing work, if indeed it does? What is actually being
+    healed by the performances of the shaman, the medicine man, or the faith
+    healer? In this study of the contemporary North American movement known as
+    the Catholic Charismatic Renewal, Thomas Csordas offers new insight into the
+    experiential specificity that defines efficacy in therapeutic ritual
+    performance. This is not only a book about healing, however, but also one
+    about the phenomenology of self and self-transformation. The Catholic
+    Charismatic Renewal is a movement that incorporates Pentecostal practices
+    into Catholicism. In the nearly three decades since its inception, the
+    movement has developed a system that includes several genres of healing:
+    physical healing, emotional healing, and deliverance from evil spirits.
+    Blending ethnographic description and detailed case studies within these
+    various healing genres, Csordas works out a theory of self and therapeutic
+    efficacy grounded in the notions of embodiment and orientation. With this
+    theory he examines the experience of sensory imagery and performative
+    utterance and explicates the sense of the sacred that is cultivated by
+    participation in this coherent ritual system. The system in turn is embedded
+    in the Charismatic world of meaning within which the sacred self comes into
+    being: to be healed is to inhabit the Charismatic world as a sacred self.
+    Csordas calls his approach "cultural phenomenology" because it is concerned
+    with synthesizing the immediacy of embodied existence with the multiplicity
+    of cultural meaning in which we are always and inevitably immersed. This
+    innovative book forms the basis for a rapprochement between phenomenology
+    and semiotics in culture theory. It will interest anthropologists,
+    philosophers, psychologists, physicians, and students of comparative
+    religion and healing
   accessed:
     - year: 2023
       month: 10
-      day: 20
+      day: 11
   author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
+    - family: Csordas
+      given: Thomas J.
+  citation-key: csordasIntroduction1994
+  container-title: 'The sacred self: A cultural phenomenology of charismatic healing'
+  event-place: Berkeley
+  ISBN: 978-0-520-08311-0
+  issued:
+    - year: 1994
+  language: eng
+  note: 'OCLC: 28844324'
+  page: 1-24
+  publisher: University of California Press
+  publisher-place: Berkeley
+  source: Open WorldCat
+  title: 1. Introduction
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/10_Csordas_SacredSelf.pdf
+
+- id: dejongSpiritualEliteCommunities2018
+  author:
+    - family: Jong
+      given: Albert
+      non-dropping-particle: de
+  citation-key: dejongSpiritualEliteCommunities2018
+  container-title: Sociology of Islam
+  DOI: 10.1163/22131418-00602002
+  issue: '2'
+  issued:
+    - year: 2018
+  language: en
+  page: 116–140
+  publisher: Brill
+  source: Google Scholar
+  title: Spiritual Elite Communities in the Contemporary Middle East
+  type: article-journal
+  URL: >-
+    https://scholarlypublications.universiteitleiden.nl/access/item%3A3458757/download
+  volume: '6'
+
+- id: dziriFluchtMigrationVertreibung2018
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Dziri
+      given: Amir
+    - family: Middelbeck-Varwick
+      given: Anja
+  citation-key: dziriFluchtMigrationVertreibung2018
+  issued:
+    - year: 2018
+  language: de
+  source: publikationen-uni-tuebingen-de.proxy.ub.uni-frankfurt.de
+  title: >-
+    Flucht, Migration, Vertreibung - Herausforderungen für die christliche und
+    islamische Theologie?
+  type: article-journal
+  URL: https://publikationen.uni.tuebingen.de/xmlui/handle/10900/137123
+
+- id: frankeReligionenReligionswissenschaftUnd2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Franke
+      given: Edith
+    - family: Maske
+      given: Verena
+  citation-key: frankeReligionenReligionswissenschaftUnd2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 125–139
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Religionen, Religionswissenschaft und die Kategorie Geschlecht/Gender
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/04_Franke_Maske_Gender.pdf
+
+- id: gebauerErlebeVersuchZion2022
+  accessed:
+    - year: 2024
+      month: 2
+      day: 6
+  author:
+    - family: Gebauer
+      given: Matthias
+  citation-key: gebauerErlebeVersuchZion2022
+  container-title: Geographische Rundschau
+  ISSN: 0016-7460
+  issue: '10'
+  issued:
+    - year: 2022
+  language: ger
+  number: '10'
+  page: 40-45
+  source: eref.uni-bayreuth.de
+  title: >-
+    Erlebe den Versuch von Zion! Die Religionsgeschichte der Mormonen als Living
+    History Museum und sakrales Event
+  type: article-journal
+  URL: >-
+    https://www.westermann.de/anlage/4649775/Erlebe-den-Versuch-von-Zion-Die-Religionsgeschichte-der-Mormonen-als-Living-History-Museum-und-sakrales-Event
+  volume: '74'
+
+- id: gemmekeMaraboutWomenDakar2009
+  author:
+    - family: Gemmeke
+      given: Amber B.
+  citation-key: gemmekeMaraboutWomenDakar2009
+  container-title: 'Africa: Journal of the International African Institute'
+  issue: '1 (= Knowledge in Practice: Expertise and the Transmission of Knowledge)'
   issued:
     - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
-  type: book
+  page: 128–147
+  publisher: Cambridge University Press
+  source: Google Scholar
+  title: 'Marabout women in Dakar: Creating authority in Islamic knowledge'
+  title-short: Marabout women in Dakar
+  type: article-journal
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/04_Marabout_Women_Dakar.pdf
+  volume: '79'
 
-- id: pongratz-leistenNewAgendaStudy2011a
+- id: golanIntroductionDigitalYouth2023
+  abstract: >-
+    Public and academic discourse on the online activities of youth have been
+    stormy and ambivalent at times (Lynn Schofield Clark 2013) [...]
   accessed:
     - year: 2023
       month: 10
-      day: 20
+      day: 10
   author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
+    - family: Golan
+      given: Oren
+  citation-key: golanIntroductionDigitalYouth2023
+  container-title: Religions
+  DOI: 10.3390/rel14060704
+  ISSN: 2077-1444
+  issue: '6'
   issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
     - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
+      month: 6
   language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '6'
+  page: '704'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: 'Introduction: Digital Youth and Religion'
+  title-short: Introduction
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/14/6/704
+  volume: '14'
 
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: hess12SacredSpaces2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
   author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
+    - family: Hess
+      given: Richard S.
+    - family: Pringle
+      given: Denys
+  citation-key: hess12SacredSpaces2018
+  container-title: The Oxford Illustrated History of the Holy Land
   editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
   event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
+  ISBN: 978-0-19-872439-1
   issued:
-    - year: 2021
-      month: 5
-      day: 20
+    - year: 2018
   language: en
+  page: 317-351
   publisher: Oxford University Press
   publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
-  type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
+  source: Google Books
+  title: 12. Sacred Spaces and Holy Places
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/09_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf
 
-- id: stuckenbruckEarlyJewishChristian2004a
-  abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
+- id: hockEinfuehrungReligionswissenschaft2014
   accessed:
     - year: 2023
       month: 10
-      day: 20
+      day: 6
   author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
+    - family: Hock
+      given: Klaus
+  citation-key: hockEinfuehrungReligionswissenschaft2014
+  collection-title: Einführung Theologie
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
   issued:
-    - year: 2004
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: Einführung in die Religionswissenschaft
   type: book
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fcontent-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783534738519
 
-- id: triggMonotheismReligiousDiversity2020a
-  abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
+- id: hockV3ReligionssoziologischeTypenbildungen2014
   accessed:
     - year: 2023
       month: 10
-      day: 20
+      day: 6
   author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+    - family: Hock
+      given: Klaus
+  citation-key: hockV3ReligionssoziologischeTypenbildungen2014
+  collection-title: Einführung Theologie
+  container-title: Einführung in die Religionswissenschaft
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
   issued:
-    - year: 2020
-      month: 8
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  page: 97-105
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: V.3. Religionssoziologische Typenbildungen
+  type: chapter
+  URL: >-
+    https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073923&page=19
+
+- id: hockVIII1ReligionsgeographieReligionUmweltForschung2014
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Hock
+      given: Klaus
+  citation-key: hockVIII1ReligionsgeographieReligionUmweltForschung2014
+  collection-title: Einführung Theologie
+  container-title: Einführung in die Religionswissenschaft
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
+  issued:
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  page: 146-152
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    VIII.1. Religionsgeographie – Religion-Umwelt-Forschung – Geographie der
+    Geisteshaltung
+  type: chapter
+  URL: >-
+    https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
+
+- id: hoylandOxfordIllustratedHistory2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
+  citation-key: hoylandOxfordIllustratedHistory2018
+  editor:
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
+  event-place: Oxford
+  ISBN: 978-0-19-872439-1
+  issued:
+    - year: 2018
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  number-of-pages: '413'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Google Books
+  title: The Oxford Illustrated History of the Holy Land
+  type: book
+
+- id: kehrerGruppeGruppendynamik1993
+  author:
+    - family: Kehrer
+      given: Günter
+  call-number: '2'
+  citation-key: kehrerGruppeGruppendynamik1993
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1993
+  language: de
+  number-of-volumes: '5'
+  page: 51-63
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Gruppe / Gruppendynamik
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ?hl=de&gbpv=1&pg=PA51&printsec=frontcover
+
+- id: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
+  author:
+    - family: Kippenberg
+      given: Hans Gerhard
+    - family: Stuckrad
+      given: Kocku
+      non-dropping-particle: von
+  citation-key: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
+  event-place: Munich
+  ISBN: 978-3-406-50207-1
+  issued:
+    - year: 2003
+  language: de
+  publisher: C.H. Beck
+  publisher-place: Munich
+  title: 'Einführung in die Religionswissenschaft: Gegenstände und Begriffe'
+  title-short: Einführung in die Religionswissenschaft
+  type: book
+
+- id: kloeckerPraktischeReligionswissenschaftHandbuch2008
+  citation-key: kloeckerPraktischeReligionswissenschaftHandbuch2008
+  collection-number: '3165'
+  collection-title: UTB M (Medium-Format) Religionswissenschaft
+  editor:
+    - family: Klöcker
+      given: Michael
+    - family: Tworuschka
+      given: Udo
+  event-place: Köln Weimar Wien
+  ISBN: 978-3-8252-3165-1 978-3-412-20197-5
+  issued:
+    - year: 2008
+  language: de
+  number-of-pages: '328'
+  publisher: Böhlau
+  publisher-place: Köln Weimar Wien
+  source: K10plus ISBN
+  title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
+  title-short: Praktische Religionswissenschaft
+  type: book
+
+- id: langerTherapeutischreligioseRitualperformanzenIm2015
+  author:
+    - family: Langer
+      given: Robert
+  citation-key: langerTherapeutischreligioseRitualperformanzenIm2015
+  container-title: >-
+    Somatisierung des Religiösen: Empirische Studien zum rezenten religiösen
+    Heilungs-und Therapiemarkt
+  editor:
+    - family: Klinkhammer
+      given: Gritt
+    - family: Tolksdorf
+      given: Eva
+  event-place: Bremen
+  issued:
+    - year: 2015
+  page: 219–236
+  publisher-place: Bremen
+  source: Google Scholar
+  title: >-
+    Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext: Das
+    Beispiel Oruç Güvenç
+  title-short: 8. Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/02_Therapeutisch_religiose_Ritualperformanz.pdf
+
+- id: langerYezidismScholarlyLiterature2010
+  abstract: >-
+    This paper examines the question of heterodoxy and orthodoxy from the point
+    of view of the Yezidis, attempting to consider their place vis-a-vis Islam
+    and at the same time make a valid general characterisation of their form of
+    social life. It is particularly interested in the transition from the rural
+    background to urban European cities by the Yezidi community, and concludes
+    that there is a strong chance that the need to interact with European
+    society will force a codification of doctrine upon the Yezidis, with effects
+    which are not yet clear.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 9
+  author:
+    - family: Langer
+      given: Robert
+  citation-key: langerYezidismScholarlyLiterature2010
+  container-title: British Journal of Middle Eastern Studies
+  DOI: 10.1080/13530194.2010.524441
+  ISSN: 1353-0194
+  issue: '3'
+  issued:
+    - year: 2010
+      month: 12
+      day: 1
+  language: en
+  page: 393-403
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Yezidism between Scholarly Literature and Actual Practice: From ‘Heterodox’
+    Islam and ‘Syncretism’ to the Formation of a Transnational Yezidi
+    ‘Orthodoxy’
+  title-short: Yezidism between Scholarly Literature and Actual Practice
+  type: article-journal
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.tandfonline.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D1353-0194%26volume%3D37%26issue%3D3%26spage%3D393
+  volume: '37'
+
+- id: mattesYouBeOnYoungBelievers2022
+  abstract: Mapping On- and Offline Identifications of Urban Religious Youth
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Mattes
+      given: Astrid
+    - family: Novak
+      given: Christoph
+    - family: Haselbacher
+      given: Miriam
+    - family: Limacher
+      given: Katharina
+    - family: Abdolvahab
+      given: Shirin
+    - family: Rauer
+      given: Eva
+    - family: Probst
+      given: Stefan
+    - family: Ďurčo
+      given: Matej
+    - family: Hasenberger
+      given: Markus
+    - family: Breuer
+      given: Ludwig Maximilian
+  citation-key: mattesYouBeOnYoungBelievers2022
+  issued:
+    - year: 2022
+  language: de
+  title: YouBeOn - Young Believers Online
+  type: webpage
+  URL: https://app.youbeon.eu/places
+
+- id: mattsonVoicePen2013
+  abstract: >-
+    This popular introduction by a well-known Islamic scholar has been updated
+    and expanded, offering a balanced portrayal of the Qur’an and its place in
+    historic and contemporary Muslim society.  Features new sections on the
+    Qur’an and its relationship to democracy, science, human rights, and the
+    role of women Contains expanded sections on the Qur’an in the life cycle of
+    Muslims, and in Islamic ethics and law Incorporates additional images and
+    student features, including a glossary. Supported by an accompanying website
+    (available on publication) hosting a range of additional material, including
+    student resources, links to important websites, news stories, and more This
+    title is also available as an eTextbook on the CourseSmart platform, as a
+    Wiley Desktop Edition, or via your preferred eTextbook vendor; eTextbooks
+    offer convenience, enhanced electronic functionality, and flexible pricing
+    options – learn more at www.wiley.com/college/wileyflex
+  author:
+    - family: Mattson
+      given: Ingrid
+  citation-key: mattsonVoicePen2013
+  container-title: 'The Story of the Qur''an: Its History and Place in Muslim Life'
+  event-place: Chichester
+  ISBN: 978-0-470-67349-2
+  issued:
+    - year: 2013
+      month: 2
+      day: 18
+  language: en
+  page: 79-140
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester
+  source: Google Books
+  title: The Voice and the Pen
+  type: chapter
+
+- id: mercadanteBeliefBordersMinds2014
+  author:
+    - family: Mercadante
+      given: Linda A.
+  citation-key: mercadanteBeliefBordersMinds2014
+  event-place: New York
+  ISBN: 978-0-19-993100-2
+  issued:
+    - year: 2014
+  number-of-pages: 1 Online-Ressource
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: COinS
+  title: 'Belief without borders : inside the minds of the spiritual but not religious'
+  title-short: Belief without borders
+  type: book
+  URL: http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001
+
+- id: middelbeck-varwickRamadanBrandenburgSignaturen2019
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Middelbeck-Varwick
+      given: Anja
+  citation-key: middelbeck-varwickRamadanBrandenburgSignaturen2019
+  container-title: Lebendige Seelsorge
+  DOI: 10.15496/PUBLIKATION-78472
+  issue: '4'
+  issued:
+    - year: 2019
+  page: 238-243
+  publisher: Universitaet Tuebingen
+  source: DOI.org (Datacite)
+  title: >-
+    Ramadan in Brandenburg : Signaturen des christlich-muslimischen Dialogs in
+    Deutschland
+  title-short: Ramadan in Brandenburg
+  type: article-journal
+  URL: https://publikationen.uni-tuebingen.de/xmlui/handle/10900/137121
+  volume: '70'
+
+- id: pelikanWrittenTorahTalmud2006
+  abstract: >-
+    Jaroslav Pelikan, widely regarded as one of the most distinguished
+    historians of our day, now provides a clear and engaging account of the
+    Bible’s journey from oral narrative to Hebrew and Greek text to today’s
+    countless editions. Pelikan explores the evolution of the Jewish,
+    Protestant, and Catholic versions and the development of the printing press
+    and its effect on the Reformation, the translation into modern languages,
+    and varying schools of critical scholarship. Whose Bible Is It? is a triumph
+    of scholarship that is also a pleasure to read.
+  author:
+    - family: Pelikan
+      given: Jaroslav
+  citation-key: pelikanWrittenTorahTalmud2006
+  container-title: 'Whose Bible Is It?: A Short History of the Scriptures'
+  event-place: New York
+  ISBN: 978-0-14-303677-7
+  issued:
+    - year: 2006
+      month: 1
+      day: 31
+  language: en
+  page: 67-86
+  publisher: Penguin
+  publisher-place: New York
+  source: Google Books
+  title: 'Beyond Written Torah: Talmud and Continuing Revelation'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/07_Pelikan+-+2006+-+Beyond+Written+Torah+Talmud+and+Continuing+Revela.pdf
+
+- id: picardJerusalemBabylonUnd
+  author:
+    - family: Picard
+      given: Jacques
+  citation-key: picardJerusalemBabylonUnd
+  language: de
+  source: Zotero
+  title: >-
+    Jerusalem, Babylon und andere Orte der Erinnerung. Über das Woher und Wohin
+    in der jüdischen Geschichtsschreibung
+  type: article-journal
+
+- id: prohlMaterialeReligion2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Prohl
+      given: Inken
+  citation-key: prohlMaterialeReligion2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 379–392
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Materiale Religion
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/08_Prohl_materialeReligion.pdf
+
+- id: rengerIII7MeisterJuengerUnd2012
+  abstract: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte was published in Religionswissenschaft on page 313.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  author:
+    - family: Renger
+      given: Almut-Barbara
+  citation-key: rengerIII7MeisterJuengerUnd2012
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936.313
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  page: 313-326
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte
+  type: chapter
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936.313
+
+- id: riesebrodtFundamentalismusAlsPatriarchalische1990
+  accessed:
+    - year: 2023
+      month: 10
+      day: 11
+  author:
+    - family: Riesebrodt
+      given: Martin
+  citation-key: riesebrodtFundamentalismusAlsPatriarchalische1990
+  event-place: Tübingen
+  ISBN: 978-3-16-145669-5
+  issued:
+    - year: 1990
+  language: de
+  note: 'OCLC: 23972886'
+  number-of-pages: '292'
+  publisher: Mohr (Paul Siebeck)
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    Fundamentalismus als patriarchalische Protestbewegung: amerikanische
+    Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
+  title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus.pdf
+
+- id: schmiedelInterreligioeserDialogAls2008
+  author:
+    - family: Schmiedel
+      given: Michael A.
+  citation-key: schmiedelInterreligioeserDialogAls2008
+  collection-number: '3165'
+  collection-title: UTB M (Medium-Format) Religionswissenschaft
+  container-title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
+  editor:
+    - family: Klöcker
+      given: Michael
+    - family: Tworuschka
+      given: Udo
+  event-place: Köln Weimar Wien
+  ISBN: 978-3-8252-3165-1 978-3-412-20197-5
+  issued:
+    - year: 2008
+  language: de
+  page: 228-237
+  publisher: Böhlau
+  publisher-place: Köln Weimar Wien
+  source: K10plus ISBN
+  title: Interreligiöser Dialog als Aufgabe angewandter Religionswissenschaft
+  title-short: Interreligiöser Dialog
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/13_Schmiedel+-+2008+-+Interreligio%CC%88ser+Dialog+als+Aufgabe+angewandter+Rel.pdf
+
+- id: stausbergI1ReligionBegriff2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Stausberg
+      given: Michael
+  citation-key: stausbergI1ReligionBegriff2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 33-47
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: 'I.1 Religion : Begriff, Definitionen, Theorien'
+  type: chapter
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110258936.33/pdf
+
+- id: stausbergReligionswissenschaft2012
+  abstract: >-
+    What constitutes the field of religious studies? The 29 chapters in this
+    introductory text offer an incisive look at the key approaches, methods,
+    problems, and subjects that define contemporary academic research in the
+    field of religious studies at universities in the German-speaking world. It
+    provides a unique and polyphonic portrait of contemporary religious studies.
+    The contributions are written in a clear, accessible style; an appendix with
+    supplemental reading aids helps one to navigate the individual
+    contributions.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  citation-key: stausbergReligionswissenschaft2012
+  collection-title: De Gruyter Studium
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Religionswissenschaft
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936
+
+- id: Tags
+  citation-key: Tags
+  title: Tags
+  type: document
+
+- id: Tagsa
+  citation-key: Tagsa
+  title: Tags
+  type: document
+
+- id: tsuriaJournalReligionMedia
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Tsuria
+      given: Ruth
+  citation-key: tsuriaJournalReligionMedia
+  container-title: Journal of Religion, Media and Digital Culture
+  ISSN: 2165-9214
+  title: Journal of Religion, Media and Digital Culture
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/rmdc/rmdc-overview.xml
+
+- id: waardenburgReligionenUndReligion1986
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Waardenburg
+      given: Jacques
+  citation-key: waardenburgReligionenUndReligion1986
+  event-place: Berlin
+  ISBN: 978-3-11-085219-6
+  issued:
+    - year: 1986
+  language: de
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    Religionen und Religion: Systematische Einführung in die
+    Religionswissenschaft
+  title-short: Religionen und Religion
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110852196
+
+- id: walker11Pilgrimage2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
+  author:
+    - family: Walker
+      given: Peter
+    - family: Hoyland
+      given: Robert
+  citation-key: walker11Pilgrimage2018
+  container-title: The Oxford Illustrated History of the Holy Land
+  editor:
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
+  event-place: Oxford
+  ISBN: 978-0-19-872439-1
+  issued:
+    - year: 2018
+  language: en
+  page: 281-316
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Google Books
+  title: 11. Pilgrimage
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/09_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf
+
+- id: wenzelDefinitionenReligion2023
+  author:
+    - family: Wenzel
+      given: Catherina
+  citation-key: wenzelDefinitionenReligion2023
+  issued:
+    - year: 2023
+      month: 10
+      day: 24
+  language: de
+  title: Definitionen von Religion
+  type: document
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/02-Wenzel+-+2023+-+Definitionen+von+Religion.pdf
+
+- id: wilkeIV6TextKlang2012
+  abstract: >-
+    What constitutes the field of religious studies? The 29 chapters in this
+    introductory text offer an incisive look at the key approaches, methods,
+    problems, and subjects that define contemporary academic research in the
+    field of religious studies at universities in the German-speaking world. It
+    provides a unique and polyphonic portrait of contemporary religious studies.
+    The contributions are written in a clear, accessible style; an appendix with
+    supplemental reading aids helps one to navigate the individual
+    contributions.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Wilke
+      given: Annette
+  citation-key: wilkeIV6TextKlang2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 407-420
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: >-
+    IV.6 Text, Klang und Ritual. Plädoyer für Religionswissenschaft als
+    Kulturhermeneutik
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.degruyter.com%2Fdoi%2Fbook%2F10.1515%2F9783110258936.407
+
+- id: zinser35SozialeBeziehungen2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser35SozialeBeziehungen2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 105-111
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: 3.5 Soziale Beziehungen der Menschen in den religiösen Gemeinschaften
+  type: chapter
+  URL: https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_103
+
+- id: zinser74TempelUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser74TempelUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 212-216
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: 7.4 Tempel und Sakralbauten
+  type: chapter
+  URL: https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_210
+
+- id: zinser92OrakelUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser92OrakelUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 237-241
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: '9.2 Orakel und Offenbarung: Mantik und andere Divinationsverfahren'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/10_Zinser_Grundfragen_233-47.pdf
+
+- id: zinserGrundfragenReligionswissenschaft2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinserGrundfragenReligionswissenschaft2010
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: Grundfragen der Religionswissenschaft
+  type: book
+  URL: https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00107067-3
+
+- id: zinserVITexteUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinserVITexteUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 155-193
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: VI Texte und Schriften in den Religionen
+  type: chapter
+  URL: >-
+    https://daten.digitale-sammlungen.de/0010/bsb00107067/images/index.html?fip=193.174.98.30&id=00107067&seite=153
 ...
