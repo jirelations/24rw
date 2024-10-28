@@ -978,6 +978,30 @@ references:
     in der jüdischen Geschichtsschreibung
   type: article-journal
 
+- id: postRitualStudies2015
+  abstract: '"Ritual Studies" published on  by Oxford University Press.'
+  accessed:
+    - year: 2024
+      month: 10
+      day: 28
+  author:
+    - family: Post
+      given: Paul
+  citation-key: postRitualStudies2015
+  container-title: Oxford Research Encyclopedia of Religion
+  DOI: 10.1093/acrefore/9780199340378.013.21
+  ISBN: 978-0-19-934037-8
+  issued:
+    - year: 2015
+      month: 9
+      day: 3
+  language: en
+  source: oxfordre-com.proxy.ub.uni-frankfurt.de
+  title: Ritual Studies
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/acrefore/9780199340378.013.21
+
 - id: prohlMaterialeReligion2012
   accessed:
     - year: 2023
@@ -1175,15 +1199,29 @@ references:
   type: book
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936
 
-- id: Tags
-  citation-key: Tags
-  title: Tags
-  type: document
-
-- id: Tagsa
-  citation-key: Tagsa
-  title: Tags
-  type: document
+- id: stephensonRitual2022
+  abstract: '"Ritual" published on  by Oxford University Press.'
+  accessed:
+    - year: 2024
+      month: 10
+      day: 28
+  author:
+    - family: Stephenson
+      given: Barry
+  citation-key: stephensonRitual2022
+  container-title: Oxford Research Encyclopedia of Religion
+  DOI: 10.1093/acrefore/9780199340378.013.923
+  ISBN: 978-0-19-934037-8
+  issued:
+    - year: 2022
+      month: 11
+      day: 22
+  language: en
+  source: oxfordre-com.proxy.ub.uni-frankfurt.de
+  title: Ritual
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/acrefore/9780199340378.013.923
 
 - id: tsuriaJournalReligionMedia
   accessed:
