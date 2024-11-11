@@ -47,6 +47,26 @@ references:
   type: article-journal
   URL: https://journals.openedition.org/zjr/896
 
+- id: apostolos-cappadonaReligionMaterialReligion2016
+  citation-key: apostolos-cappadonaReligionMaterialReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Apostolos-Cappadona
+      given: Diane
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866362-3
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: material religion'
+  title-short: Religion
+  type: book
+
 - id: bernerSynkretismus2001
   author:
     - family: Berner
@@ -77,6 +97,26 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/05_Berner+-+2001+-+Synkretismus.pdf
   volume: '5'
+
+- id: brintnallReligionEmbodiedReligion2016
+  citation-key: brintnallReligionEmbodiedReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Brintnall
+      given: Kent
+    - literal: Gale (Firm)
+  event-place: Farmington Hills. Mich
+  ISBN: 978-0-02-866298-5
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills. Mich
+  source: K10plus ISBN
+  title: 'Religion: embodied religion'
+  title-short: Religion
+  type: book
 
 - id: brombergerFussballAlsWeltsicht2003
   author:
@@ -300,6 +340,26 @@ references:
   title: Handbuch religionswissenschaftlicher Grundbegriffe
   type: book
 
+- id: clementsReligionMentalReligion2017
+  citation-key: clementsReligionMentalReligion2017
+  collection-title: Macmillan interdisciplinary handbooks. Religion
+  editor:
+    - family: Clements
+      given: Niki Kasumi
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866360-9
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: mental religion'
+  title-short: Religion
+  type: book
+
 - id: csordasIntroduction1994
   abstract: >-
     How does religious healing work, if indeed it does? What is actually being
@@ -351,6 +411,26 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/10_Csordas_SacredSelf.pdf
+
+- id: deconickReligionSecretReligion2016
+  citation-key: deconickReligionSecretReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: De Conick
+      given: April D.
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866357-9
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: secret religion'
+  title-short: Religion
+  type: book
 
 - id: dejongSpiritualEliteCommunities2018
   author:
@@ -727,6 +807,26 @@ references:
   title: The Oxford Illustrated History of the Holy Land
   type: book
 
+- id: johnstonReligionNarratingReligion2017
+  citation-key: johnstonReligionNarratingReligion2017
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Johnston
+      given: Sarah Iles
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866292-3
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: narrating religion'
+  title-short: Religion
+  type: book
+
 - id: kehrerGruppeGruppendynamik1993
   author:
     - family: Kehrer
@@ -797,6 +897,67 @@ references:
   title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
   title-short: Praktische Religionswissenschaft
   type: book
+
+- id: kripalReligionSourcesPerspectives2016
+  citation-key: kripalReligionSourcesPerspectives2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Kripal
+      given: Jeffrey John
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866288-6
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: sources, perspectives, and methodologies'
+  title-short: Religion
+  type: book
+
+- id: kripalReligionSuperReligion2017
+  citation-key: kripalReligionSuperReligion2017
+  collection-title: Macmillan interdisciplinary handbooks. Religion
+  editor:
+    - family: Kripal
+      given: Jeffrey John
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866358-6
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: super religion'
+  title-short: Religion
+  type: book
+
+- id: langerDynamicsOrthodoxyHeterodoxy2008
+  author:
+    - family: Langer
+      given: Robert
+    - family: Simon
+      given: Udo
+  citation-key: langerDynamicsOrthodoxyHeterodoxy2008
+  container-title: Die Welt des Islams
+  issue: 3/4
+  issued:
+    - year: 2008
+  language: English
+  page: '273'
+  source: COinS
+  title: >-
+    The Dynamics of Orthodoxy and Heterodoxy. Dealing with Divergence in Muslim
+    Discourses and Islamic Studies
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/edsjsr%2Cedsjsr.27798270/PDF
+  volume: '48'
 
 - id: langerTherapeutischreligioseRitualperformanzenIm2015
   author:
@@ -977,6 +1138,26 @@ references:
   URL: https://publikationen.uni-tuebingen.de/xmlui/handle/10900/137121
   volume: '70'
 
+- id: parsonsReligionSocialReligion2016
+  citation-key: parsonsReligionSocialReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Parsons
+      given: William Barclay
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866290-9
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: social religion'
+  title-short: Religion
+  type: book
+
 - id: pelikanWrittenTorahTalmud2006
   abstract: >-
     Jaroslav Pelikan, widely regarded as one of the most distinguished
@@ -1019,6 +1200,26 @@ references:
     Jerusalem, Babylon und andere Orte der Erinnerung. Über das Woher und Wohin
     in der jüdischen Geschichtsschreibung
   type: article-journal
+
+- id: pinnReligionJustReligion2016
+  citation-key: pinnReligionJustReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Pinn
+      given: Anthony B.
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866359-3
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: just religion'
+  title-short: Religion
+  type: book
 
 - id: postRitualStudies2015
   abstract: '"Ritual Studies" published on  by Oxford University Press.'
@@ -1139,6 +1340,34 @@ references:
   type: book
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus.pdf
+
+- id: schlieterReligionReligionswissenschaftUnd2012
+  accessed:
+    - year: 2024
+      month: 11
+      day: 11
+  author:
+    - family: Schlieter
+      given: Jens
+  citation-key: schlieterReligionReligionswissenschaftUnd2012
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936.227
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  page: 227-240
+  publisher: De Gruyter
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: Religion, Religionswissenschaft und Normativität
+  type: chapter
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110258936.227/pdf
 
 - id: schmiedelInterreligioeserDialogAls2008
   author:
@@ -1501,4 +1730,24 @@ references:
   type: chapter
   URL: >-
     https://daten.digitale-sammlungen.de/0010/bsb00107067/images/index.html?fip=193.174.98.30&id=00107067&seite=153
+
+- id: zuckermanReligionReligion2016
+  citation-key: zuckermanReligionReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Zuckerman
+      given: Phil
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866361-6
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: beyond religion'
+  title-short: Religion
+  type: book
 ...
