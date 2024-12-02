@@ -98,6 +98,30 @@ references:
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/05_Berner+-+2001+-+Synkretismus.pdf
   volume: '5'
 
+- id: betzReligionGeschichteUnd1998
+  call-number: BL31 .R4 1998
+  citation-key: betzReligionGeschichteUnd1998
+  edition: 4., völlig neu bearb. Aufl
+  editor:
+    - family: Betz
+      given: Hans Dieter
+  event-place: Tübingen
+  ISBN: >-
+    978-3-16-146941-1 978-3-16-146942-8 978-3-16-146943-5 978-3-16-146944-2
+    978-3-16-146945-9 978-3-16-146946-6 978-3-16-146947-3 978-3-16-146948-0
+    978-3-16-146949-7
+  issued:
+    - year: 1998
+  number-of-pages: '9'
+  publisher: Mohr
+  publisher-place: Tübingen
+  source: Library of Congress ISBN
+  title: >-
+    Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und
+    Religionswissenschaft
+  title-short: Religion in Geschichte und Gegenwart
+  type: book
+
 - id: brintnallReligionEmbodiedReligion2016
   citation-key: brintnallReligionEmbodiedReligion2016
   collection-title: Macmillan interdisciplinary handbooks
