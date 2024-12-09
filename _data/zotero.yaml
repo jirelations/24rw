@@ -1119,6 +1119,48 @@ references:
   title: The Voice and the Pen
   type: chapter
 
+- id: mazumdarSacredSpacePlace1993
+  abstract: >-
+    The aim of this paper is to provide an understanding of the
+    interconnectedness between religion, identity and attachment to sacred
+    spaces. This is done in three parts. First, we provide a general
+    understanding of attachment to sacred spaces, settings and objects and
+    create a typology of attachment to different sacred spaces, from macro to
+    micro, from natural to human-made, based on a brief comparison of several
+    religions. Second, focusing on one part of this typology (attachment to
+    homes), we illustrate the creation, content and meaning of sacred space
+    through a detailed analysis of the Hindu house. Third, we examine the
+    emergence of place attachment and identity, the ways religion through ritual
+    connects people to places, and how places as settings for sacred behavior
+    and socialization connects people to religion. Finally, by including
+    personal history and auto-ethnography we attempt to ‘personalize’
+    environmental psychology.
+  accessed:
+    - year: 2024
+      month: 12
+      day: 9
+  author:
+    - family: Mazumdar
+      given: Shampa
+    - family: Mazumdar
+      given: Sanjoy
+  citation-key: mazumdarSacredSpacePlace1993
+  container-title: Journal of Environmental Psychology
+  container-title-short: Journal of Environmental Psychology
+  DOI: 10.1016/S0272-4944(05)80175-6
+  ISSN: 0272-4944
+  issue: '3'
+  issued:
+    - year: 1993
+      month: 9
+      day: 1
+  page: 231-242
+  source: ScienceDirect
+  title: Sacred space and place attachment
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0272494405801756
+  volume: '13'
+
 - id: mercadanteBeliefBordersMinds2014
   author:
     - family: Mercadante
