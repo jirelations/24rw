@@ -67,6 +67,28 @@ references:
   title-short: Religion
   type: book
 
+- id: armbrusterSpiritualitaetUndSeelische2013
+  citation-key: armbrusterSpiritualitaetUndSeelische2013
+  edition: 1. Aufl
+  editor:
+    - family: Armbruster
+      given: Jürgen
+    - family: Behrens
+      given: Dirk
+  event-place: Köln
+  ISBN: 978-3-88414-793-1 978-3-88414-551-7
+  issued:
+    - year: 2013
+  language: ger
+  number-of-pages: '288'
+  publisher: Psychiatrie Verlag
+  publisher-place: Köln
+  source: K10plus ISBN
+  title: Spiritualität und seelische Gesundheit
+  type: book
+  URL: >-
+    https://elibrary-utb-de.proxy.ub.uni-frankfurt.de/doi/book/10.1486/9783884147931
+
 - id: bernerSynkretismus2001
   author:
     - family: Berner
@@ -384,7 +406,7 @@ references:
   title-short: Religion
   type: book
 
-- id: csordasIntroduction1994
+- id: csordas1Introduction1994
   abstract: >-
     How does religious healing work, if indeed it does? What is actually being
     healed by the performances of the shaman, the medicine man, or the faith
@@ -419,7 +441,7 @@ references:
   author:
     - family: Csordas
       given: Thomas J.
-  citation-key: csordasIntroduction1994
+  citation-key: csordas1Introduction1994
   container-title: 'The sacred self: A cultural phenomenology of charismatic healing'
   event-place: Berkeley
   ISBN: 978-0-520-08311-0
@@ -962,6 +984,41 @@ references:
   title-short: Religion
   type: book
 
+- id: ladenhaufReligiositaetUndSpiritualitaet2010
+  accessed:
+    - year: 2025
+      month: 1
+      day: 8
+  author:
+    - family: Ladenhauf
+      given: Karl Heinz
+    - family: Unterrainer
+      given: Human-Friedrich
+  citation-key: ladenhaufReligiositaetUndSpiritualitaet2010
+  collection-number: '14'
+  collection-title: Theologie im kulturellen Dialog
+  container-title: 'Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur'
+  editor:
+    - family: Schaupp
+      given: Walter
+    - family: Ruckenbauer
+      given: Hans-Walter
+  event-place: Innsbruck
+  issued:
+    - year: 2010
+  language: de
+  page: 163-188
+  publisher: Tyrolia-Verlag
+  publisher-place: Innsbruck
+  source: unipub.uni-graz.at
+  title: >-
+    Religiosität und Spiritualität im Krankheitsprozess: Ergebnisse aus einem
+    interdisziplinären Forschungsprojekt von empirischer Religionspsychologie
+    und Pastoralpsychologie
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/11-Ladenhauf+and+Unterrainer+-+2010+-+Religiosita%CC%88t+und+Spiritualita%CC%88t+im+Krankheitsprozes.pdf
+
 - id: langerDynamicsOrthodoxyHeterodoxy2008
   author:
     - family: Langer
@@ -1407,6 +1464,31 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus.pdf
 
+- id: schauppMachtReligionGesund2010
+  accessed:
+    - year: 2025
+      month: 1
+      day: 8
+  citation-key: schauppMachtReligionGesund2010
+  collection-number: '14'
+  collection-title: Theologie im kulturellen Dialog
+  editor:
+    - family: Schaupp
+      given: Walter
+    - family: Ruckenbauer
+      given: Hans-Walter
+  event-place: Innsbruck
+  issued:
+    - year: 2010
+  language: de
+  publisher: Tyrolia-Verlag
+  publisher-place: Innsbruck
+  source: unipub.uni-graz.at
+  title: 'Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur'
+  title-short: Macht Religion gesund?
+  type: book
+  URL: https://unipub.uni-graz.at/obvugroa/download/pdf/10318635
+
 - id: schlieterReligionReligionswissenschaftUnd2012
   accessed:
     - year: 2024
@@ -1462,6 +1544,26 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/13_Schmiedel+-+2008+-+Interreligio%CC%88ser+Dialog+als+Aufgabe+angewandter+Rel.pdf
+
+- id: sijapatiBodyToolRemembrance2021
+  author:
+    - family: Sijapati
+      given: Megan Adamson
+  citation-key: sijapatiBodyToolRemembrance2021
+  container-title: Body and religion
+  ISSN: 2057-5831
+  issue: '1'
+  issued:
+    - year: 2021
+  language: English
+  page: '96'
+  source: COinS
+  title: >-
+    "The body is a tool for remembrance": healing, transformation, and the
+    instrumentality of the body in a North American Sufi order
+  title-short: The body is a tool for remembrance
+  type: article-journal
+  volume: '5'
 
 - id: stausbergI1ReligionBegriff2012
   accessed:
