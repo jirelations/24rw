@@ -406,6 +406,28 @@ references:
   title-short: Religion
   type: book
 
+- id: colemanMedicineReligionBody2010
+  citation-key: colemanMedicineReligionBody2010
+  collection-number: v. 11
+  collection-title: International studies in religion and society
+  DOI: 10.1163/ej.9789004179707.i-300
+  editor:
+    - family: Coleman
+      given: Elizabeth Burns
+    - family: White
+      given: Kevin
+  event-place: Leiden Boston
+  ISBN: 978-90-474-4400-8
+  issued:
+    - year: 2010
+  language: eng
+  number-of-pages: '1'
+  publisher: Brill
+  publisher-place: Leiden Boston
+  source: K10plus ISBN
+  title: Medicine, religion, and the body
+  type: book
+
 - id: csordas1Introduction1994
   abstract: >-
     How does religious healing work, if indeed it does? What is actually being
@@ -675,6 +697,32 @@ references:
   type: book
   URL: https://www.google.de/books?id=BWMBAQAAQBAJ
 
+- id: haussmannUniversitaetUndLehrerausbildung2013
+  author:
+    - family: Haußmann
+      given: Werner
+  citation-key: haussmannUniversitaetUndLehrerausbildung2013
+  container-title: Handbuch interreligiöses Lernen
+  editor:
+    - family: Schreiner
+      given: Peter
+    - family: Sieg
+      given: Ursula
+    - family: Elsenbast
+      given: Volker
+  event-place: Gütersloh
+  ISBN: 3-579-05574-7
+  issued:
+    - year: 2013
+  language: de
+  page: 508-519
+  publisher: Gütersloher Verlagshaus
+  publisher-place: Gütersloh
+  source: COinS
+  title: Universität und Lehrerausbildung als Orte interreligiösen Lernens
+  type: chapter
+  URL: https://comenius.de/produkt/a40058_handbuch_interreligioeses_lernen/
+
 - id: hess12SacredSpaces2018
   abstract: >-
     The Oxford Illustrated History of the Holy Land covers the 3,000 years which
@@ -725,6 +773,34 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/09_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf
+
+- id: hochGottImKoerper2001
+  author:
+    - family: Hoch
+      given: Lothar Carlos 1945-
+  citation-key: hochGottImKoerper2001
+  collection-number: '41'
+  collection-title: Weltmission heute
+  container-title: >-
+    Heilung in Mission und Ökumene: Impulse zum interkulturellen Dialog über
+    Heilung und ihre kirchliche Praxis
+  editor:
+    - family: Cordula
+      given: Schmid
+  event-place: Hamburg
+  issued:
+    - year: 2001
+  language: de
+  page: 153-166
+  publisher: EMW
+  publisher-place: Hamburg
+  source: COinS
+  title: >-
+    Gott im Körper erfahren: das Phänomen religiöser Heilungen in den
+    Pfingstkirchen und den afrobrasilianischen Kulten als Herausforderung für
+    Medizin und Kirche
+  title-short: Gott im Körper erfahren
+  type: chapter
 
 - id: hockEinfuehrungReligionswissenschaft2014
   accessed:
@@ -1107,6 +1183,38 @@ references:
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.tandfonline.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D1353-0194%26volume%3D37%26issue%3D3%26spage%3D393
   volume: '37'
 
+- id: lugerVerkoerperteSpirituelleErfahrung2013
+  author:
+    - family: Luger
+      given: Martin A.
+  citation-key: lugerVerkoerperteSpirituelleErfahrung2013
+  collection-number: '5'
+  collection-title: >-
+    Schriftenreihe der Österreichischen Gesellschaft für Religionswissenschaft
+    (ÖGRW)
+  container-title: 'Heilung in den Religionen: religiöse, spirituelle und leibliche Dimensionen'
+  editor:
+    - family: Ferrknecht
+      given: Veronica
+    - family: Noseck-Licul
+      given: Michaela
+    - family: Kremser
+      given: Manfred
+  event-place: Vienna
+  ISBN: '9783643504432'
+  issued:
+    - year: 2013
+  language: de
+  page: 451-465
+  publisher: Lit-Verlag
+  publisher-place: Vienna
+  source: COinS
+  title: >-
+    Verkörperte spirituelle Erfahrung: der achtsame Körper in
+    Feldenkrais-Methode und Vipassana-Meditation
+  title-short: Verkörperte spirituelle Erfahrung
+  type: chapter
+
 - id: mattesYouBeOnYoungBelievers2022
   abstract: Mapping On- and Offline Identifications of Urban Religious Youth
   accessed:
@@ -1235,6 +1343,22 @@ references:
   title-short: Belief without borders
   type: book
   URL: http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001
+
+- id: meyerNeutraleReligionswissenschaftNormativitat2020
+  author:
+    - family: Meyer
+      given: Sophie Sidonie
+  citation-key: meyerNeutraleReligionswissenschaftNormativitat2020
+  event-place: Bern
+  genre: M.A. Thesis
+  issued:
+    - year: 2020
+  publisher: Universität Bern
+  publisher-place: Bern
+  title: >-
+    Neutrale Religionswissenschaft? Normativität und Wissenschaftlichkeit im
+    Verständnis ihrer Studierenden
+  type: thesis
 
 - id: middelbeck-varwickRamadanBrandenburgSignaturen2019
   accessed:
