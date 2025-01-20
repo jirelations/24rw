@@ -31,6 +31,14 @@
 		],
 		"description": "Add review section to slides"
 	},
+	"slides": {
+		/* "scope": "Markdown", */
+		"prefix": "slides",
+		"body": [
+			"---\nlayout: reveal\ntitle: '${1:title}'\nauthor: 'Nathan Gibson'\nsession: ${2:session}\ntags: [${2:session},slides]\ncategory: slides\nimage: ${3:image}\nparallaxBackgroundImage: 'assets/img/${3:image}'\n---\n\n# Einführung in die Religionswissenschaft\n\n### Aktuelle Themen in der Religionsforschung\n{: .r-fit-text}\n\n### ${1:title}\n\nWintersemester 2024/2025\nProf. Dr. Nathan Gibson\n\n## Einleitung\n\n\n## 📈 Rückblick\n\n\n## Heutiges Lernziel\n\n\n## Lektüre\n\n\n## Diskussion\n\n\n## Vorschau\n\n"
+		],
+		"description": "Add frontmatter and outline for slides document"
+	},
 	"objective": {
 		/* "scope": "Markdown", */
 		"prefix": "obj",
@@ -51,7 +59,7 @@
 		/* "scope": "Markdown", */
 		"prefix": "help",
 		"body": [
-			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides"
+			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nslides\tslides\tAdd frontmatter and outline for slides document\nvideo\tembed video\tAdd embedded video file to slides"
 		],
 		"description": "Add review section to slides"
 	}
