@@ -1561,6 +1561,36 @@ references:
   type: chapter
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936.313
 
+- id: riesebrodt11FundamentalismusUnd1990
+  accessed:
+    - year: 2023
+      month: 10
+      day: 11
+  citation-key: riesebrodt11FundamentalismusUnd1990
+  container-author:
+    - family: Riesebrodt
+      given: Martin
+  container-title: >-
+    Fundamentalismus als patriarchalische Protestbewegung: amerikanische
+    Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
+  event-place: Tübingen
+  ISBN: 978-3-16-145669-5
+  issued:
+    - year: 1990
+  language: de
+  note: 'OCLC: 23972886'
+  page: 1-24
+  publisher: Mohr (Paul Siebeck)
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    1.1 Fundamentalismus und Soziologie; 1.2 Fundamentalismus: ein umstrittenes
+    Konzept; 1.3 Fundamentalismus: ein definitorischer und typologischer
+    Neuansatz
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus-1_1-3.pdf
+
 - id: riesebrodtFundamentalismusAlsPatriarchalische1990
   accessed:
     - year: 2023
@@ -1586,7 +1616,7 @@ references:
   title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
   URL: >-
-    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus.pdf
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus-Buch.pdf
 
 - id: schauppMachtReligionGesund2010
   accessed:
