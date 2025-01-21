@@ -1566,6 +1566,9 @@ references:
     - year: 2023
       month: 10
       day: 11
+  author:
+    - family: Riesebrodt
+      given: Martin
   citation-key: riesebrodt11FundamentalismusUnd1990
   container-author:
     - family: Riesebrodt
