@@ -1722,6 +1722,50 @@ references:
   type: article-journal
   volume: '5'
 
+- id: srowigRadikalisierungIndividuenUeberblick2018
+  abstract: >-
+    Warum radikalisieren sich Individuen? Dieser Report gibt einen
+    systematischen Überblick über den Forschungsstand zu den Ursachen und Folgen
+    der Radikalisierung von Individuen und beschreibt wie diese in
+    Wechselwirkung und Interaktion mit anderen Personen, sozialen Gruppen sowie
+    Organisationen oder Institutionen stattfinden. Die Aneignung extremistischer
+    Denkmuster sowie die Zugehörigkeit zu einer extremistischen
+    Gleichaltrigengruppe im Jugendalter helfen bei der Befriedigung allgemeiner
+    Bedürfnisse wie Anerkennung und Gruppenzugehörigkeit, aber auch bei der
+    Reduktion von Unsicherheiten und Identitätskonflikten. Ideologien bieten
+    Individuen nachvollziehbare Deutungsmuster und individuelle
+    Handlungsalternativen für spezifische Problemlagen an. Der Report leitet aus
+    seinen Erkenntnissen Vorschläge für zukünftige präventive und therapeutische
+    Maßnahmen ab
+  author:
+    - family: Srowig
+      given: Fabian
+    - family: Roth
+      given: Viktoria
+    - family: Pisoiu
+      given: Daniela
+    - family: Seewald
+      given: Katharina
+    - family: Zick
+      given: Andreas
+  citation-key: srowigRadikalisierungIndividuenUeberblick2018
+  collection-title: PRIF report
+  container-title: PRIF report
+  contributor:
+    - family: Hessische Stiftung Friedens- und Konfliktforschung
+      given: ''
+  issued:
+    - year: 2018
+  language: de
+  page: 1-31
+  source: K10plus ISBN
+  title: >-
+    Radikalisierung von Individuen: ein Überblick über mögliche
+    Erklärungsansätze
+  title-short: Radikalisierung von Individuen
+  type: article-journal
+  URL: https://www.hsfk.de/fileadmin/HSFK/hsfk_publikationen/prif0618.pdf
+
 - id: stausbergI1ReligionBegriff2012
   accessed:
     - year: 2023
