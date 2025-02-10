@@ -102,4 +102,41 @@ ___
   - Welches soll die Religionspsychologie im Blick haben?
 - Was untersucht die empirische Religionspsychologie?
 - Welche Arten von "Coping" (Krankheitsverarbeitung) gibt es?
+- extrinsisch religiös (sozialer Glaube) und intrinsisch religiös (innerer Glaube)
 
+### 12. Wie wird Religion digital untersucht?
+**🧭 Lernziel:** Verständnis dafür zeigen, wie religiöse Identität, Gemeinschaft und Autorität in Online- und Offline-Umgebungen miteinander verwoben sind.
+
+- Lektüre (Campbell):
+  - 4 Wellen der Forschung digitaler Religion
+  - mediation vs. mediatization
+  - Was ist "religious-social shaping of technology"?
+  - Was bedeutet "Third Space"?
+  - Beispiele davon merken, wie Autorität, Identität und Gemeinschaft zwischen Online und Offline verwoben sind
+- 4 Schritten im "Schokoladenmodell" für die Forschung mit digitalen Werkzeugen
+
+### 13. Wie sollte religiöser Extremismus verstanden werden?
+**🧭 Lernziel:** Fundamentalismus, Radikalisierung und Extremismus definieren und Beispiele für jeden Begriff geben.
+
+- Lektüre (Riesbrodt):
+  - Wie definiert Riesebrodt den Fundamentalismus (wenn er überhaupt den Fundamentalismus definiert)?
+    - Wie unterscheidet sich der Fundamentalismus vom allgemeinen Traditionalismus?
+    - Utopischer Regress (Sozialreform) vs. Mythischer Regress (Fundamentalismus)
+    - Weltflucht vs. Weltbeherrschung
+  - Sind Fundamentalisten unbedingt gewaltbereit? 
+- Was ist die Radikalisierung?
+  - Was hat die Radikalisierung mit persönlichen Lebensgeschichten und mit der Gewalt zu tun?
+
+### 14. Sollten Religionswissenschaftler/innen am interreligiösen Dialog mitwirken?
+**🧭 Lernziel:** Überlegen und erklären können, inwieweit religionswissenschaftliche Ansätze zum interreligiösen Dialog beitragen können, sollen und dürfen.
+
+- Lektüre (Schmiedel): 
+  - Was ist interreligiöser Dialog?
+    - Sind alle Perspektiven in einem interreligiösen Dialog unbedingt religiös?
+  - Finden Dialoge nur in formellen Situationen statt? Bzw. geht es nur um theologische/dogmatische Inhalte?
+  - Laut Schmiedel, warum können Religionswissenschaftler/innen (und alle andere Wissenschaftler/innen) normative Betätigungen nicht vermeiden? 
+  - Was sind 3 Optionen für die Beteiligung Religionswissenschaftler/innen an interreligiösen Dialogen?
+- Ilona Klemens (Gast):
+  - Nicht Religionen führen Dialog sondern Menschen führen den Dialog.
+  - Was macht der Rat der Religionen in Frankfurt?
+  - (Beispielsweise) Welche Erwartungen sollte man an interreligiösen Dialog haben?
