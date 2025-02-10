@@ -77,5 +77,29 @@ ___
   - ein Paar Beispiele von jüdischen Texten/Genres nennen, die Auslegungen der Thora beinhalten (durch Lesarten, Übersetzungen, Kommentare usw.)
   - ähnliche Phänomene in Christentum und Islam beschreiben
 
-### Welche Rolle spielen materielle Objekte in der Religion?
+### 8. Welche Rolle spielen materielle Objekte in der Religion?
 **🧭 Lernziel:** Erklären können, wie die Forschung an materiellen Objekten den Glauben an das Transzendente greifbar macht.
+
+- Wie das "Materielle" transzendente Aspekte der Religion erfahrbar macht
+- Was Amida-Buddha Abdrücke über eine Gemeinschaft zeigen können bzw. wie sie die persönliche Spiritualität verändern können
+
+### 9. Welche Rolle spielen heilige Orte in der Religion?
+**🧭 Lernziel:** Erklären können, auf welche Weise Orte sakrale Bedeutung erlangen, und diese Bedeutung anhand jüdischer, christlicher und islamischer Beispiele erläutern.
+
+- Was macht einen Ort "heilig" für die Besucher/innen?
+  - Ist die Geschichte hinter dem Ort immer stabil? 
+  - Wie ist es möglich, dass unterschiedliche religiöse Gemeinschaften den selben Ort als heilig betrachten? 
+- Zusammenfassung der Lektüre <https://etherpad.studiumdigitale.uni-frankfurt.de/p/24rw9>
+
+### 10. Besuch Shahid Alam (Kunstler)
+**Wird nicht geprüft.**
+
+### 11. Welche Wirkung hat die religiöse Praxis auf den Körper?
+**🧭 Lernziel:** Religionspsychologische Ansätze zur Krankheit und Heilung schildern.
+
+- Warum ist die Säkularisierungstheorie nicht mehr aktuell?
+- Was bedeutet "Spiritualität" im Vergleich mit "Religiösität"? 
+  - Welches soll die Religionspsychologie im Blick haben?
+- Was untersucht die empirische Religionspsychologie?
+- Welche Arten von "Coping" (Krankheitsverarbeitung) gibt es?
+
